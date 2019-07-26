@@ -3,6 +3,7 @@ RENCANA NONTON KONTEN WPU
   *ES6
   * Framework javascript
    ^Vue
+   ^React
 -Struktur Data Dasar
 -PHP Framework
  *Laravel
